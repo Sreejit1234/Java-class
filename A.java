@@ -1,6 +1,6 @@
 import java.util.*;
 class A{
-  void m(){System.out.println("Hello m");}
+  void m(){System.out.println("Hello mini.");}
   void n(){
     this.m();
     System.out.println("Hello n");
